@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Xbim.Python": {
+      "commandName": "Project",
+      "commandLineArgs": "--model c:\\Users\\Martin\\Source\\Samples\\SampleHouse.ifc --script test.py"
+    }
+  }
+}
